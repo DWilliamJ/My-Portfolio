@@ -1,0 +1,76 @@
+body {
+    background-color: rgba(74, 73, 133, 0.87);
+    text-align: center;
+    align-items: center;
+    width:80%;
+    padding-left: 150px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+   
+    
+
+
+}
+a {
+    color:aquamarine;
+    padding: 200px;
+}
+
+#doc {
+    background-color:white;
+}
+.header {
+    background-color: rgb(20, 54, 43);
+    height:250px;
+    font-style: oblique;
+    color:white;
+}
+
+ul{
+    padding-left: 100px;
+    
+}
+
+
+
+#aboutme {
+    height: 70px;
+
+}
+#certifications {
+    height: 250px;
+    background-color:  rgb(142, 231, 216);}
+
+#eduT {
+    height: 360px;
+    background-color: rgb(142, 231, 216);
+   
+    
+}
+
+
+#projects {
+    height: 800px;
+
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+#skills {
+    height: 150px;
+    background-color: rgb(142, 231, 216);
+   
+    
+}
+#skills ul li {
+    font-family: 'Cosmic Sans MS';
+    display: inline;
+    padding: 20px;
+    color:blue;
+}
+
