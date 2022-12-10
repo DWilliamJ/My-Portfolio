@@ -24,6 +24,7 @@ a {
     height:250px;
     font-style: oblique;
     color:white;
+    position:sticky;
 }
 
 ul{
